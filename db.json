@@ -1,0 +1,25 @@
+{
+  "desarolladores": [
+    {
+      "id": 1,
+      "name": "Matias Maruzza",
+      "profesion": "Programador",
+      "puesto": "Frontend",
+      "tecnologia": "React"
+    },
+    {
+      "id": 2,
+      "name": "Mario Campbell",
+      "profesion": "Disenador",
+      "puesto": "Frontend",
+      "tecnologia": "React"
+    },
+    {
+      "id": 3,
+      "name": "Juan Perez",
+      "profesion": "Ing. en sistemas",
+      "puesto": "Fullstack",
+      "tecnologia": "Laravel"
+    }
+  ]
+}
